@@ -157,7 +157,7 @@ Throughout this project, I have gained experience in
 
 ---
 
-## Future Improvements
+## Possible Future Improvements
 
 - Computer vision
 - Camera calibration
@@ -167,10 +167,4 @@ Throughout this project, I have gained experience in
 - Motion planning
 - Closed-loop control
 - Force sensing
-- Brushless servo upgrade
 
----
-
-## License
-
-This project is open source under the MIT License.
