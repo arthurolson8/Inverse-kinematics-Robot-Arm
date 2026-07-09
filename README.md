@@ -45,14 +45,15 @@ Planned Features
 ---
 
 ### Hardware / Mechanical
-Custom CAD using SolidWorks
-Custom 3D Printed parts using PLA
-2 M8 60mm Bolts
-1 M8 50mm Bolt
-2 M8 Nuts
-Various sizes of M2 and M3 bolts and nuts
-M2 and M8 threaded inserts
-8 608 ZZ bearings
+
+- Custom CAD using SolidWorks
+- Custom 3D Printed parts using PLA
+- 2 M8 60mm Bolts
+- 1 M8 50mm Bolt
+- 2 M8 Nuts
+- Various sizes of M2 and M3 bolts and nuts
+- M2 and M8 threaded inserts
+- 8 608 ZZ bearings
 
 ### Electronics
 
