@@ -59,6 +59,7 @@ Planned Features
 
 - Arduino Uno R4 WiFi
 - PCA9685 Servo Driver
+- breadboard
 - 4× DS3218 20kg·cm Servos
 - 2× SG90 Micro Servos
 - Three Dual-Axis Joysticks (only 2 used for final controls)
