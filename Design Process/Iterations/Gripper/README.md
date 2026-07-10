@@ -1,4 +1,4 @@
-Shoulder Design Process
+Gripper Design Process
 -
 My first Version was a parallel style gripper with 2 gears attached to the gripper fingers that are moved by one servo, this design looked cool but overall had too much slop. Even though it could hold on to things effectivly, the far end of the fingers were a bit weak, it was hard on the servo and the 8 M3 screws nuts would unscrew themselves automatically when the gripper was used, and I didnt want to permanently attatch them with locktight because then the servo would be stuck in there forever.
 
