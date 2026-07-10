@@ -28,7 +28,7 @@
 
 ### Planned Hardware
 
-- Logitech 270c Webcam
+- Logitech C270 Webcam
 
 ### Planned Software
 
