@@ -16,7 +16,7 @@ For the 3rd Version I slightly modified the V2 but added a rack and pinon style 
 
 V3 problems
 - only has one set distance to open to atm
-- Possible solutions
+Possible solutions
 - force sensor on inside of fingers
 
 
