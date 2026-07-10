@@ -26,6 +26,10 @@
 - Solidworks
 - GitHub
 
+### Planned Hardware
+
+- Logitech 270c Webcam
+
 ### Planned Software
 
 - Python
